@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Matrix",
+  "accentColor": "#873c00",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Menlo",
+  "monospaceFontFamily": "Source Code Pro",
+  "baseFontSize": 21,
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
+}
